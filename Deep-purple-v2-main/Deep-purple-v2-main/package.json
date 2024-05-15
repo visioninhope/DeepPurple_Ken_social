@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.20",
+    "@types/d3": "^7.4.3",
+    "apexcharts": "^3.44.2",
+    "d3": "^7.8.5",
+    "react-apexcharts": "^1.4.1",
+    "react-gauge-chart": "^0.4.1",
+    "react-google-charts": "^4.0.1",
+    "react-router-dom": "^6.20.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  }
+}

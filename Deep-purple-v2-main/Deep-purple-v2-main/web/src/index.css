@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply box-border list-none p-0 m-0 scroll-smooth;
+  }
+
+  body {
+    @apply bg-purple-2 text-off-white min-h-screen font-inter;
+  }
+}
+
+@layer utilities {
+    .invert-white {
+        @apply invert brightness-0 transition;
+      }
+}
